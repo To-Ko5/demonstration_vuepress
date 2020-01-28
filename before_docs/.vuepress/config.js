@@ -1,6 +1,7 @@
 module.exports = {
     title: 'Demonstration VuePress',
     description: 'VuePress demonstration',
+    dest: 'docs/',
     base: '/demonstration_vuepress/',
     themeConfig: {
         nav: [
